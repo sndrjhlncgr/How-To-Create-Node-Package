@@ -178,6 +178,6 @@ Run **npm login** from the command line and enter the credentials that you used 
 ## Publish your React component to npm!
 Run **npm publish** from the command line inside your project folder.
 
-Now go and check out your new React component on the npm website at https://www.npmjs.com/package/[YOUR PACKAGE NAME]. You can also run npm info [YOUR PACKAGE NAME] from the command line to see all the metadata info about your package that's stored on the npm registry.
+Now go and check out your new React component on the npm website at https://www.npmjs.com/package/[YOURPACKAGENAME]. You can also run npm info [YOURPACKAGENAME] from the command line to see all the metadata info about your package that's stored on the npm registry.
 
 **NOTE:** To update your package in npm you just need to increment the version number in the package.json file and run npm publish again.
