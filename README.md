@@ -140,10 +140,9 @@ const defaultProps = {
 class BoilerplateComponent extends React.Component {
     constructor(props) {
         super(props);
-        this.handleChange = this.handleChange.bind(this);
     }
 
-    handleChange(e) {
+    handleChange = (e) => {
         this.props.onChange(e.target.value);
     }
     
