@@ -15,9 +15,9 @@ You can use the one below that I prepared earlier, it already contains all of th
 
 You just need to update the following fields:
 
-name - set this to the name of your package as it will appear on npm, it should be the same name as your project folder
-description - a brief description of your package, this is optional so feel free to delete it if you prefer
-main - this points to the main entrypoint file for your React component, it matches the output filename created by webpack after it transpiles your ES6/JSX component into ES5 which is more widely supported by browsers
+**name** - set this to the name of your package as it will appear on npm, it should be the same name as your project folder
+**description** - a brief description of your package, this is optional so feel free to delete it if you prefer
+**main** - this points to the main entrypoint file for your React component, it matches the output filename created by webpack after it transpiles your ES6/JSX component into ES5 which is more widely supported by browsers
 ```
 {
     "name": "jw-react-npm-boilerplate",
