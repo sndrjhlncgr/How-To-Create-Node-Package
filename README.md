@@ -94,7 +94,7 @@ Copy this file into your project folder as is, it configures the presets used by
 }
 ```
 
-## Create an .npmignore file**
+## Create an .npmignore file
 Copy this file into your project folder, it tells the npm cli which files to exclude from publishing into the npm package repository, it helps to keep your package lean by only including the files needed to run your React component in production.
 
 ```
