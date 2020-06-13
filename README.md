@@ -1,4 +1,4 @@
-## Sign p to npm<br/>
+## Sign up to npm<br/>
 The first thing you need to publish a React component to npm is an npm account, you can sign up here for free.
 
 
